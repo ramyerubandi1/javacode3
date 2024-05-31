@@ -1,1 +1,1 @@
-# javacode3
+# myMar2022WeekdayBatchRepo
